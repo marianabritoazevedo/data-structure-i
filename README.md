@@ -26,3 +26,7 @@ Ce référentiel vise à montrer les projets développés à la matière du cour
 - [Listes - Arraylist, linkedlist et doublylinkedlist](https://github.com/marianabritoazevedo/data-structure-i/tree/main/Lists)
 - [Files - Arrayqueue et linkedqueue](https://github.com/marianabritoazevedo/data-structure-i/tree/main/Queues)
 - [Piles - Arraystack et linkedstack](https://github.com/marianabritoazevedo/data-structure-i/tree/main/Stacks)
+
+# :books: References
+
+[Eduardo's repository](https://github.com/eduardolfalcao/edi)
