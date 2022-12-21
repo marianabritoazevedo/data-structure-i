@@ -20,3 +20,11 @@ Similar to the Linkedlist, it is a list implemented with nodes, each node with 3
 
 ![image info](./img/doublylinkedlist.png)
 
+## How to run
+
+1- Create an account at [repl.it](https://replit.com/)
+
+2- Create a new repl and choose `C` as the programming language
+
+3- Copy and paste the code you want to check, and then click `Run`
+
